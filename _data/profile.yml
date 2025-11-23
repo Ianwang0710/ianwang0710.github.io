@@ -3,15 +3,14 @@ secondary_name: "Ian"
 navbar_name: "Chenghao Wang"
 
 positions:
-- name: PhD Candidate
-- name: >-
-    University of Liverpool & <br>
-    Xi'an Jiaotong-Liverpool University
-  logo: /assets/images/badges/UoL.png  # Logo is optional
-
+  - name: PhD Candidate
+  - name: >-
+      University of Liverpool & <br>
+      Xi'an Jiaotong-Liverpool University
+    logo: /assets/images/badges/UoL.png
 
 email: "dancerluo@outlook.com"
-# cv_link: link-to-your-cv-file
+# cv_link: assets/files/cv.pdf
 gscholar: F-xoaCwAAAAJ
 github: ianwang0710
 orcid: 0009-0009-5655-3740
@@ -25,26 +24,26 @@ short_bio: >-
     My research interests lie in <strong>Computer-Assisted Language Learning (CALL)</strong>, with a specific focus on <strong>AIGC in EFL Speaking and Writing</strong> and <strong>Human-Computer Interaction (HCI)</strong>.
   </p>
 
+# 请确认文件名是 avata.png 还是 avatar.png
 portrait_url: /assets/images/photos/avata.png
-portrait_caption: >-
-  Chenghao (Ian) Wang
+portrait_caption: "Chenghao (Ian) Wang"
 
 education:
-- name: University of Liverpool & Xi'an Jiaotong-Liverpool University
+  - name: University of Liverpool & Xi'an Jiaotong-Liverpool University
     logo: /assets/images/badges/UoL.png
     position: PhD Candidate in Applied Linguistics
-    date: Aug. 2022 - Present
-- name: University of Liverpool & Xi'an Jiaotong-Liverpool University
-  logo: /assets/images/badges/UoL.png
-  position: M.A in TESOL
-  date: Sep. 2021 - Mar. 2023
+    date: Dec. 2023 - Present
+
+  - name: University of Liverpool & Xi'an Jiaotong-Liverpool University
+    logo: /assets/images/badges/UoL.png
+    position: M.A in TESOL
+    date: Sep. 2021 - Mar. 2023
 
 experience:
-- name: Zhejiang University (DIDC Lab)
-  logo: /assets/images/badges/ZJU.png
-  position: Invited Researcher
-  date: Dec. 2023 - Present
-
+  - name: Zhejiang University (DIDC Lab)
+    logo: /assets/images/badges/ZJU.png
+    position: Invited Researcher
+    date: Dec. 2023 - Present
 
 awards:
   - name: Web of Science ESI Highly Cited & Hot Paper (Social Sciences)
@@ -56,9 +55,9 @@ awards:
   - name: Web of Science ESI Highly Cited & Hot Paper (Social Sciences)
     date: May 2025
   - name: School of HSS PhD Research Excellence Award
-    date: May. 2025
+    date: May 2025
   - name: XJTLU PhD Research Excellence Award
-    date: May. 2025
+    date: May 2025
   - name: Best Poster Award, 1st XJTLU-UoL-XJTU Postgraduate Research Joint Conference
     date: Mar. 2025
   - name: University of Liverpool & XJTLU PhD Scholarship
