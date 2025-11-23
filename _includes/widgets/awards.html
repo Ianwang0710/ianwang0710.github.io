@@ -1,0 +1,18 @@
+<div class="card mt-3">
+    <div class="card-body">
+        <h5 class="card-title">Honors & Awards</h5>
+        <ul class="list-unstyled mb-0">
+            {% for award in site.data.profile.awards %}
+            <li class="mb-2">
+                <div class="d-flex justify-content-between">
+                    <div>
+                        <i class="fas fa-award text-muted mr-2"></i>
+                        <span>{{ award.name }}</span>
+                    </div>
+                    <small class="text-muted text-nowrap ml-2">{{ award.date }}</small>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
