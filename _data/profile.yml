@@ -30,25 +30,21 @@ portrait_caption: >-
   Chenghao (Ian) Wang
 
 education:
-  - name: University of Liverpool & Xi'an Jiaotong-Liverpool University
+- name: University of Liverpool & Xi'an Jiaotong-Liverpool University
     logo: /assets/images/badges/UoL.png
-    position: PhD in Applied Linguistics
+    position: PhD Candidate in Applied Linguistics
     date: Aug. 2022 - Present
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: University of Liverpool & Xi'an Jiaotong-Liverpool University
+  logo: /assets/images/badges/UoL.png
+  position: M.A in TESOL
+  date: Sep. 2021 - Mar. 2023
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Zhejiang University (DIDC Lab)
+  logo: /assets/images/badges/UoL.png
+  position: Invited Researcher
+  date: Dec. 2023 - Present
+
 
 awards:
 - name: Award Name 2
