@@ -1,1 +1,21 @@
-
+<div class="card mt-3">
+    <div class="card-body">
+        <h5 class="card-title">Education</h5>
+        {% for edu in site.data.profile.education %}
+        <div class="row mt-3">
+            {% if edu.logo %}
+            <div class="col-2 col-md-2 d-flex align-items-center">
+                <img src="{{ edu.logo | relative_url }}" style="width: 100%; max-width: 50px;" class="rounded" alt="logo">
+            </div>
+            <div class="col-10 col-md-10">
+            {% else %}
+            <div class="col-12">
+            {% endif %}
+                <h6 class="mb-0 font-weight-bold">{{ edu.name }}</h6>
+                <div>{{ edu.position }}</div>
+                <small class="text-muted">{{ edu.date }}</small>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
