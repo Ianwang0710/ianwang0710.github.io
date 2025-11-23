@@ -7,7 +7,7 @@ positions:
 - name: >-
     University of Liverpool & <br>
     Xi'an Jiaotong-Liverpool University
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/UoL.png  # Logo is optional
 
 
 email: "dancerluo@outlook.com"
@@ -29,7 +29,7 @@ portrait_url: /assets/images/photos/avata.png
 portrait_caption: >-
   Chenghao (Ian) Wang
 
-education
+education:
 - name: University of Liverpool & Xi'an Jiaotong-Liverpool University
     logo: /assets/images/badges/UoL.png
     position: PhD Candidate in Applied Linguistics
