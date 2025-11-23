@@ -1,10 +1,10 @@
-primary_name: "Your Name"
-secondary_name: ""
+primary_name: "Chenghao Wang"
+secondary_name: "Ian"
 navbar_name: "Your Name"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: PhD Candidate
+- name: University of Liverpool & Xi'an Jiaotong-Liverpool University
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
